@@ -1,0 +1,2 @@
+# devopswordpressexample
+samplewordpress
